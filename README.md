@@ -10,10 +10,10 @@ Build
 ------------------
 
 ```bash
-$ docker build -t koduki/sdk-gae_go .
+$ docker build -t fk2000/sdk-gae_go .
 ```
 
-You can also pull from [DockerHub](https://hub.docker.com/r/koduki/sdk-gae_go/)
+You can also pull from [DockerHub](https://hub.docker.com/r/fk2000/sdk-gae_go/)
 
 
 Run server on local
